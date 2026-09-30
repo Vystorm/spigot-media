@@ -11,9 +11,11 @@ This repository contains images only, no code. The pages link to them through
 | `xpvaulteconomy/` | XPVaultEconomy |
 | `blockintegrations/` | BlockIntegrations |
 | `oreveins/` | OreVeins (maintained fork of OreVeins by Kevin Mendoza) |
+| `client/` | Vystorm Client (Fabric mod; CurseForge/Modrinth descriptions) |
 | `betterportals/` | BetterPortals 26.2 fork (fork of BetterPortals by Envel, based on BetterPortals by Lauriethefish) |
 
-Each folder has `design/` (generated graphics) and, once available, `shots/` (in-game screenshots).
+Each folder has `design/` (generated graphics) and, once available, `shots/` (in-game screenshots,
+scaled to at most 1600 px and stored as JPEG).
 
 ## Credits
 
